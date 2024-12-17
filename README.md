@@ -1,1 +1,3 @@
-# osu_pitcher_graphics
+## Oregon State Pitcher Graphics
+
+This project contains all my code to produce a couple of graphics showing an OSU pitcher's statcast data, both as a summary of them as a pitcher and a comparison to MLB data. This is my first real project in the baseball statistics sphere, and also first foray into both python and github. If there are any obvious bugs or issues with this or the code, feel free to let me know, I'm more than open to crticism or advice. I wrote the code in a colab notebook, linked [here](https://colab.research.google.com/drive/1GFsQq0Icwiyv-d6zbkNsy1HB6glWCI47?usp=sharing), which has been downloaded and then posted here as an ipynb file. If I make any small tweaks, I may forget to re update the file here, so the colab notebook will be the most up to date place. Feel free to comment there as well. I hope you enjoy seeing me work through my first project in baseball statistics and learning to code!
