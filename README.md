@@ -6,3 +6,4 @@ This repository contains all my projects using OSU pitcher data. All output grap
 As of now, my projects include:
 1. Pitcher game/season summary dashboard
 2. Pitcher MLB comparison
+3. Bullpen/session comparison (In Progress)
