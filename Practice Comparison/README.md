@@ -3,4 +3,4 @@ It will produce two graphics, one based on movement and one based on release, to
 
 I'm still working on the angular plots, I'm not confident about the movement as of now, so the lines may become more curved based on my digging. 
 
-Inspiration is linked, and criticism/questions are always welcome!
+Inspiration is linked in the notebook, and criticism/questions are always welcome!
