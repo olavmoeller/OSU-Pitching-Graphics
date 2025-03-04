@@ -3,3 +3,5 @@ This project contains all my code to produce a couple of graphics showing an OSU
 Edit 2/2025: I found an error in the code, so IVB and HB were incorrectly calculated. This has been updated, in addition to some code revisions to make it more clear and smooth. Movement was supressed by ~40%, so now the numbers make more sense and showcase the actual movement profiles of the pitchers.
 
 Edit 2/2025: Added the folder for the streamlit app of the dashboard.
+
+Edit 3/2025: Since I am now using Huggingface for apps to generate graphics that work with py files, I likely won't update the ipynb dashboard files further. Any edits will likely happen through Huggingface first, as I can edit output how I want it visually, and then be copied and pushed here. Please take a look at the app folder for the newest updates, and the ipynb file will stay as a relic with methodology and original intents/codes. Any huge drastic changes will be updated here, and new projects will also have a new annotated ipynb.
